@@ -3,15 +3,13 @@
 
 <head>
 
+<h1> HELLO WORLD! </h1>
+
 </head>
 
 <body>
 
-<?php
-
-phpinfo();
-
-?>
+get funky
 
 </body>
 
